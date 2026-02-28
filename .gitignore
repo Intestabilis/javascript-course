@@ -34,3 +34,6 @@
 10-Functions/.prettierrc
 10-Functions/index.html
 10-Functions/script.js
+17-Modern-JS-Modules-Tooling/node_modules
+17-Modern-JS-Modules-Tooling/.parcel-cache
+17-Modern-JS-Modules-Tooling/dist
